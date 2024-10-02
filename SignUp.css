@@ -1,0 +1,29 @@
+
+
+
+
+.container{
+    border: 2px solid red;
+    background-color: rgb(117, 242, 246);
+    padding: 34px;
+    margin: 34px auto;
+    width: 666px;
+}
+
+.btn {
+    background-color: crimson;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 4px;
+    align-items: center;
+
+}
+
+.btn:hover {
+    background-color: darkred;
+}
+
+.form-control{
+    width: 100%;
+}
